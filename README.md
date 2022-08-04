@@ -4,7 +4,7 @@
   </a>
 </p>
 
-Metaplex is comprised of two core components: an on-chain program, and a self-hosted front-end web3 application.
+Asphalt Tyre is the first vehicle metaverse based on Play to Earn on the solana blockchain.
 
 ## Official Metaplex Docs and Guide
 
